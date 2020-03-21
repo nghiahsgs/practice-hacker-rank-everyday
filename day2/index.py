@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem
 #!/bin/python3
 
 import math
